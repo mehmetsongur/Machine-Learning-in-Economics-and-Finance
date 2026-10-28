@@ -8,13 +8,15 @@ Weekly materials for the 14-week course **Machine Learning in Economics and Fina
 
 **Format:** a theory block (weeks 1–8) followed by an applied block in Google Colab (weeks 9–14). Slides, videos and code are added to each week as they are published.
 
-*Last updated: 15 October 2026*
+**Code for the theory weeks:** each notebook reproduces the simulations behind the figures and tables in that week's lecture notes and slides (simulated data, fixed random seeds, so the numbers match the course materials). The notebooks are in Turkish and run in Google Colab with no installation; locally they need `numpy`, `pandas`, `matplotlib` and `scikit-learn`.
+
+*Last updated: 29 October 2026*
 
 ## Theory block
 
 | Week | Topic | Slides | Video | Code |
 |:--:|---|:--:|:--:|:--:|
-| 1 | Artificial intelligence, machine learning and deep learning; how they differ from econometrics (prediction vs. causality) | [PDF](https://www.songurmehmet.com/assets/dersler/ml/Hafta01_Slaytlar.pdf) | [Watch](https://youtu.be/NK_xTGsUph8) | — |
+| 1 | Artificial intelligence, machine learning and deep learning; how they differ from econometrics (prediction vs. causality) | [PDF](https://www.songurmehmet.com/assets/dersler/ml/Hafta01_Slaytlar.pdf) | [Watch](https://youtu.be/NK_xTGsUph8) | [Notebook](code/Hafta01_Katsayi_ve_Ongoru.ipynb) · [Colab](https://colab.research.google.com/github/mehmetsongur/Machine-Learning-in-Economics-and-Finance/blob/main/code/Hafta01_Katsayi_ve_Ongoru.ipynb) |
 | 2 | Types of learning, features and target, data types, data preparation concepts | [PDF](https://www.songurmehmet.com/assets/dersler/ml/Hafta02_Slaytlar.pdf) | [Watch](https://www.youtube.com/watch?v=epkgrEX1N7Q) | — |
 | 3 | Model performance: overfitting, bias–variance, cross-validation, data leakage | [PDF](https://www.songurmehmet.com/assets/dersler/ml/Hafta03_Slaytlar.pdf) | [Watch](https://youtu.be/TzWIzMklU9Q) | — |
 | 4 | Regression and regularization: OLS, Ridge, Lasso | — | — | — |
@@ -63,4 +65,6 @@ Areas of specialisation: economics, macroeconomics, econometrics, applied AI
 
 You may share and link to them in teaching, with attribution to the author. Commercial use and modified versions are not permitted.
 
-Third-party material included in the slides (figures, tables, data) is excluded from this license and remains subject to its own terms. Code, if added to this repository, will be licensed separately.
+Third-party material included in the slides (figures, tables, data) is excluded from this license and remains subject to its own terms.
+
+The code in the [`code/`](code/) folder (Jupyter notebooks) is licensed separately under the [MIT License](code/LICENSE): you may use, adapt and redistribute it, including in your own courses, provided the copyright notice is kept.
