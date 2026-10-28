@@ -17,7 +17,7 @@ Weekly materials for the 14-week course **Machine Learning in Economics and Fina
 | Week | Topic | Slides | Video | Code |
 |:--:|---|:--:|:--:|:--:|
 | 1 | Artificial intelligence, machine learning and deep learning; how they differ from econometrics (prediction vs. causality) | [PDF](https://www.songurmehmet.com/assets/dersler/ml/Hafta01_Slaytlar.pdf) | [Watch](https://youtu.be/NK_xTGsUph8) | [Notebook](code/Hafta01_Katsayi_ve_Ongoru.ipynb) · [Colab](https://colab.research.google.com/github/mehmetsongur/Machine-Learning-in-Economics-and-Finance/blob/main/code/Hafta01_Katsayi_ve_Ongoru.ipynb) |
-| 2 | Types of learning, features and target, data types, data preparation concepts | [PDF](https://www.songurmehmet.com/assets/dersler/ml/Hafta02_Slaytlar.pdf) | [Watch](https://www.youtube.com/watch?v=epkgrEX1N7Q) | — |
+| 2 | Types of learning, features and target, data types, data preparation concepts | [PDF](https://www.songurmehmet.com/assets/dersler/ml/Hafta02_Slaytlar.pdf) | [Watch](https://www.youtube.com/watch?v=epkgrEX1N7Q) | [Notebook](code/Hafta02_Veri_Hazirlama.ipynb) · [Colab](https://colab.research.google.com/github/mehmetsongur/Machine-Learning-in-Economics-and-Finance/blob/main/code/Hafta02_Veri_Hazirlama.ipynb) |
 | 3 | Model performance: overfitting, bias–variance, cross-validation, data leakage | [PDF](https://www.songurmehmet.com/assets/dersler/ml/Hafta03_Slaytlar.pdf) | [Watch](https://youtu.be/TzWIzMklU9Q) | — |
 | 4 | Regression and regularization: OLS, Ridge, Lasso | — | — | — |
 | 5 | Classification: logistic regression, confusion matrix, ROC-AUC, imbalanced data | — | — | — |
