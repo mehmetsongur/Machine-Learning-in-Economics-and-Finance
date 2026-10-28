@@ -56,3 +56,11 @@ Areas of specialisation: economics, macroeconomics, econometrics, applied AI
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" width="16" height="16" alt=""> [YouTube](https://www.youtube.com/channel/UCfeckeM1sASHHl5ZmQ7lqDQ)
 - <img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" height="16" alt=""> [Instagram](https://www.instagram.com/mmtsngr/)
 - <img src="https://cdn.simpleicons.org/medium/00AB6C" width="16" height="16" alt=""> [Medium](https://medium.com/@mmtsngr)
+
+## License
+
+© 2026 Mehmet Songur. The course materials in this repository are licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+You may share and link to them in teaching, with attribution to the author. Commercial use and modified versions are not permitted.
+
+Third-party material included in the slides (figures, tables, data) is excluded from this license and remains subject to its own terms. Code, if added to this repository, will be licensed separately.
