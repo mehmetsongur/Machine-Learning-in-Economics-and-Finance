@@ -1,5 +1,7 @@
 # Machine Learning in Economics and Finance
 
+![Machine Learning in Economics and Finance: 14-week course](assets/social-preview.png)
+
 Weekly materials for the 14-week course **Machine Learning in Economics and Finance** at Dicle University: slides, lecture videos and code. The course is taught in Turkish.
 
 **Course page (Turkish):** https://www.songurmehmet.com/dersler/ekonomi-ve-finansta-makine-ogrenmesi.html
