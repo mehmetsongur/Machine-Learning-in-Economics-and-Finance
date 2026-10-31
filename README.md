@@ -10,6 +10,10 @@ Weekly materials for the 14-week course **Machine Learning in Economics and Fina
 
 **Format:** a theory block (weeks 1–8) followed by an applied block in Google Colab (weeks 9–14). Slides, videos and code are added to each week as they are published.
 
+**Before each class:** the lecture videos are pre-class material. Students are expected to watch the week's video before coming to class.
+
+🇹🇷 *Videolar ders öncesi izlenmesi gereken materyallerdir; öğrencilerin her haftanın videosunu derse gelmeden önce izlemesi beklenir.*
+
 **Code for the theory weeks:** each notebook reproduces the simulations behind the figures and tables in that week's lecture notes and slides (simulated data, fixed random seeds, so the numbers match the course materials). The notebooks are in Turkish and run in Google Colab with no installation; locally they need `numpy`, `pandas`, `matplotlib` and `scikit-learn`.
 
 *Last updated: 1 November 2026*
